@@ -7,6 +7,7 @@ public class day1 {
 		//Webdriver driver=new Chromedriver();
 		System.out.println("hello");
 		System.out.println("i'm learning about git");
+		System.out.println("thus spoke zarathustra");
 
 	}
 
