@@ -8,6 +8,7 @@ public class day1 {
 		System.out.println("hello");
 		System.out.println("i'm learning about git");
 		System.out.println("thus spoke zarathustra");
+		System.out.println("asamarthuni jeevayatra by gopi chand");
 
 	}
 
